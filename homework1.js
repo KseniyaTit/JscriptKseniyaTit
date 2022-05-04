@@ -61,7 +61,7 @@ if (questionBlock == true){
          }
          if(questionElement ==false){
     alert(blockName) 
-    stop
+   
         }
 
     let quesionModificator=confirm (`do you want to write modificator name?`)
